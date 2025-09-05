@@ -2,4 +2,4 @@
 Repository for Fundamentals of Software Engineering course.
 ## Student Info
 - Кондратенко Дмитрій
-- Група:372
+- Група: 372
